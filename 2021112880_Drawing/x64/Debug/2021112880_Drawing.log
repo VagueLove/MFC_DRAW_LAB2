@@ -1,0 +1,25 @@
+﻿  CDrawVerLine.cpp
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CDrawVerLine.cpp(29,14): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CDrawVerLine.cpp(30,14): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  CGetIntersection.cpp
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CGetIntersection.cpp(41,11): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CGetIntersection.cpp(42,11): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CGetIntersection.cpp(50,10): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CGetIntersection.cpp(51,10): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CGetIntersection.cpp(52,10): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CGetIntersection.cpp(53,10): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CGetIntersection.cpp(93,11): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CGetIntersection.cpp(94,11): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CGetIntersection.cpp(98,11): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CGetIntersection.cpp(99,11): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CGetIntersection.cpp(131,11): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CGetIntersection.cpp(132,11): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CGetIntersection.cpp(139,11): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CGetIntersection.cpp(140,11): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CGetIntersection.cpp(152,11): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CGetIntersection.cpp(153,11): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  CSlist.cpp
+  正在生成代码...
+H:\code_graphics\2021112880_Drawing\2021112880_Drawing\CSlist.cpp(84): warning C4715: “CSlist::GetElement”: 不是所有的控件路径都返回值
+  LINK : 没有找到 H:\code_graphics\2021112880_Drawing\x64\Debug\2021112880_Drawing.exe 或上一个增量链接没有生成它；正在执行完全链接
+  2021112880_Drawing.vcxproj -> H:\code_graphics\2021112880_Drawing\x64\Debug\2021112880_Drawing.exe
